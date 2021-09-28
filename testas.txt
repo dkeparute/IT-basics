@@ -1,0 +1,88 @@
+TESTAS ĮSIVERTINTI GEBĖJIMAMS 
+
+1. Ar terminai: žiniatinklis (World Wide Web) ir internetas  yra sinonimai:
+	a) Taip
+	b) Ne
+
+Internetas yra didžiulis tinklų tinklas, o www yra bendras HTTP vardas, kuris yra vienas iš interneto naudojamų protokolų
+
+2. Koks protokolas naudojamas komunikavimui tarp naršyklės ir serverio?
+	a) HTML
+	b) Ajax
+	c) HTTP
+
+HTTP (trumpinys nuo angl. HyperText Transfer Protocol) – pagrindinis metodas informacijai pasauliniame tinkle (WWW) pasiekti. Pradinė protokolo paskirtis – pateikti standartinį būdą HTML puslapiams skelbti ir skaityti.
+
+3. Ar naršyklė yra būtina norint nusiųsti POST užklausą į aplikaciją aptarnaujantį serverį?
+	a) Taip
+	b) Ne
+
+4. Pagrindinės WEB technologijos?
+	a) C++, JavaScript, TypeScript, HTML
+	b) HTML, CSS, JS, OS X, PHP
+	c) HTML, CSS, JavaScript, PHP
+
+5. Kokia technologija leidžia atnaujinti HTML dokumento dalį neperkraunant viso dokumento (pvz.: įvykus įvykiui, kai gauta nauja informacija)?
+	a) HTML „dynamic“ extension biblioteka
+	b) Ajax
+	c) SASS
+
+6. HTML, tai:?
+	a) Programavimo kalba tinklapio interaktyvumui kurti
+	b) Tinklapio apipavidalinimą aprašanti kalba
+	c) Tinklapio struktūrą aprašanti kalba
+
+7. Kodėl CSS vadinami pakopiniais stiliais?
+	a) Kodas rašomas pakopomis
+	b) Pakopos nusako kuri taisyklė yra svarbesnė ir bus taikoma elementui
+	c) Teisingo atsakymo nėra
+
+8. Kas bus išvesta  įvykdžius pateiktą žemiau esantį kodą?
+
+class Vartotojas {
+  public $vardas;
+  public $pavarde;
+
+  public function pasisveikink()
+  {
+    return "Labas, " .  $this -> vardas;
+  }
+}
+ 
+$vartotojas1 = new User();
+$vartotojas1 -> vardas = "Jonas";
+$vartotojas1-> pavarde = "Jonaitis";
+echo $vartotojas1 -> pasisveikink();
+	a) Jonas Jonaitis
+	b) Jonas
+	c) Klaida
+
+9. Ką vadiname CSS preprocesoriumi?
+	a) Preprocesorius leidžia rašyti css kodą html elemento viduje 
+	b) Preprocesorius yra procesas, kuris serveryje įvykdo CSS kodą
+	c) Preprocesorius - skriptų rašymo kalba, kuri išplečia CSS ir leidžia kompiliuoti kodą į standartinį CSS kodą
+
+10. Kuris CSS selektorius yra teisingas norint stilių taikyti tik nuorodmis į pdf tipo failus?
+	a) a[href >='.pdf']
+	b) a[href $='.pdf']
+	c) Nėra teisingo atsakymo
+
+11. Kuris iš kintamųjų yra masyvas?
+	a) var pastraipos = document.querySelector('p')
+	b) var patarimai = document.querySelectorAll('p')
+	c) var pastraipos = document.intoArray('p)
+
+12. Kaip kintamajam antraštė, kuriam priskirtas elementas HTML elementas header pakeisti fono spalvą naudojant JavaScript?
+	a) antraste.style.background-color = 'tomato'
+	b) antraste.style.backgroundColor = 'tomato'
+	c) antraste.css.background-color= 'tomato'
+
+13. HTML5 naudojam semantinius elementus. Koks semantinis elementas aprašo tinklapio navigacijos bloką?
+	a) navigation
+	b) links
+	c) nav
+
+14. Turim 5 poras juodų ir 5 poras baltų pirštuotų pirštinių. Kiek maksimaliai traukimų reikės, kad užtikrintai turėtume vienos spalvos teisingą porą pirštinių?
+	a) 5
+	b) 10
+	c) Teisingo atsakymo nėra
