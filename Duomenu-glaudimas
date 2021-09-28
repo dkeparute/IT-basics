@@ -1,0 +1,25 @@
+Glaudinimo (archyvavimo) samprata
+Duomenų pertvarkymas taip, kad jie užimtų mažiau vietos atmintyje ir jiems persiųsti reikėtų siauresnės dažnių juostos arba persiuntimas būtų spartesnis.
+
+Glaudinimo programos
+Duomenų glaudinimo, duomenų archyvavimo programų yra daug, tačiau dažniausiai naudojamos, dažniausiai pasitaikančios:
+
+WinRAR
+WinZip
+7-Zip
+Automatiškai glaudinimo programos formuoja savo failų tipą, kuris turi plėtinius:
+
+*.zip
+*.rar
+*.7z
+*.tar
+
+Glaudinimo galimybės
+
+Adaptyvus glaudinimas – duomenų glaudinimas, kai analizuojama duomenų struktūra ir pagal analizės rezultatus parenkamas optimalus glaudinimo metodas.
+Asimetrinis glaudinimas – duomenų glaudinimo metodas, kai trukmė, reikalinga duomenims suglaudinti, iš esmės skiriasi nuo trukmės, reikalingos suglaudintiems duomenims išskleisti.
+Garso glaudinimas – duomenų glaudinimo būdas garso failų dydžiui sumažinti. Taip garsą patogiau laikyti kompiuterinėse laikmenose, persiųsti kompiuterių tinklais.
+Paveikslų glaudinimas – sumažinus pasikartojančių paveikslo duomenų kiekį, sumažinamas paveikslo failo dydis.
+Simetrinis glaudinimas – duomenų glaudinimo metodas, kai laikas duomenims suglaudinti maždaug lygus laikui suglaudintiems duomenims išskleisti.
+Tikralaikis glaudinimas – duomenų glaudinimas ir išskleidimas, automatiškai atliekami kreipiantis į duomenis ir nereikalaujantys iš naudotojo specialių glaudinimo veiksmų.
+Vaizdų glaudinimas – duomenų glaudinimo būdas vaizdo failų dydžiui sumažinti. Taip vaizdą patogiau laikyti įvairiose skaitmeninėse laikmenose, persiųsti kompiuterių tinklais.
