@@ -1,0 +1,41 @@
+Programinė įranga
+
+Skirstoma:
+
+-sisteminė įranga (operacinė sistema – būtina kiekvienam kompiuteriui)
+-taikomoji (žaidimai, pagalbinės programos – gali būti ir gali nebūti)
+
+Operacinė sistema (OS) – tai programų rinkinys, kuris:
+
+valdo visus kompiuterio resursus;
+užtikrina kitų programų veikimą;
+palaiko ryšį tarp vartotojo ir kompiuterio, bei interpretuoja jo komandas.
+
+Operacinių sistemų rūšys: vienprogramės (DOS)  ir daugiaprogramės (Windows).
+
+Failas (byla) – įvardinta išorinės atminties sritis, kurioje saugoma informacijos porcija (dalis)
+
+Katalogas (aplankas, direktorija, folder‘is) – įvardinta failų grupė, katalogų grupė
+
+Darbinis katalogas (current directory) – katalogas, su kuriuo šiuo metu yra dirbama, arba kuris yra aktyvus.
+
+Pakatalogis (subdirectory) – katalogas, kuris yra kito katalogo viduje.
+
+Katalogų medis (tree) – struktūra, parodanti katalogų išdėstymą kitų atžvilgiu.
+
+Kelias (path) – disko vardo, katalogų vardų seka, atskirta simboliais \.
+
+ 
+
+Failų tipai
+
+Failą sudaro – [pavadinimas.plėtinys/galūnė/prievardis] pvz.: praktinis-darbas.docx
+
+Tekstiniai, dokumentiniai: .txt .doc .rtf   ir kt.
+Programos vykdomieji failai(viso 4): .exe .com    .bat    .inf
+Paveiksliukai, fotografijos: .bmp .jpg   .gif   .tiff   .pcx    .pic    .png   ir kt.
+Garsiniai failai: .wav .mp3    .mid    .snd    ir kt.
+Animaciniai, video : .avi .mpg  .mp4   .qt     .mov    .dat     .mpeg ir kt.
+Programavimo kalbų tekstiniai : .pas .bas    .for    .asm     .cpp
+Sisteminiai failai (įrenginių tvarkyklės): .sys .xls     .htm     .dll (dinaminio ryšio biblioteka)
+Glaudinimo programų (archyvavimo): .zip .rar .arj .7z .ice
