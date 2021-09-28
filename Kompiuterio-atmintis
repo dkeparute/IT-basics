@@ -1,0 +1,34 @@
+Kompiuterio atminties matavimo vienetai:
+Mažiausias informacijos matavimo vienetas – bitas.
+
+1 baitą sudaro 8 bitai.
+
+1 Kilobaitas(Kb) – 1024 baitai.
+
+1 Megabaitas (Mb) – 1024 Kb
+
+1 Gigabaitas (Gb) – 1024 Mb
+
+1 Terabaitas (Tb)  – 1024 Gb ir t.t.
+
+Apskaičiavimas:
+
+pvz. Kiek bitų sudarys 1 Kb?  1Kb = 1024 baitams, vadinasi 1024 x 8 = 8192 bitai
+
+Kompiuterio atmintis skirstoma į išorinę ir vidinę.
+
+Vidinė atmintis dedama į motininę plokštę. 
+
+Vidinės atminties rūšys:
+
+RAM (random access memory) – darbinė atmintis. Išjungus kompiuterį visa informacija iš jos ištrinama.
+ROM (read only memory)  (Bios) – pastovioji atmintis. Joje įrašyti duomenis apie kompiuterį. Galima įvardyti, kad tai kompiuterio pasas.
+Cache – spartinančioji atmintis.
+Video – video atmintis arba VRAM. (Va štai čia jau labai būdinga žmogui. !!!)
+
+Išorinė atmintis skirstoma:
+
+HDD / SSD – kietasis diskas (jame saugoma visa informacija);
+FDD – lanksčiųjų diskelių kaupiklis;
+CD-ROM, DVD – kompaktinių plokštelių įrenginiai;
+USB Flash drive (key) – atmintukas.
