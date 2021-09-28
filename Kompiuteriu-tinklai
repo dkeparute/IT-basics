@@ -1,0 +1,39 @@
+Kompiuterių tinklai
+Kompiuterių tinklas – tai kompiuterių grupė, kurie sujungti kabeliais arba kitokiais informacijos perdavimui skirtais įrenginiais.
+
+Visi šiuolaikiniai kompiuteriai turi specialias tinklo jungtis (tinklo plokštes), kurios specialiais laidais ir atitinkamais antgaliais sujungtos tarpusavyje. Didesnėms tinklams naudojami tinklo komutatoriai. Bevielėms tinklams naudojamos bevielės plokštės.
+
+Kompiuterių jungimo į tinklus būdai
+
+žiedinis – sujungti į bendrą tinklą nuosekliai, vienas paskui kitą;
+žvaigždinis – kai prie centrinio kompiuterio per komutatorių jungiami visi kiti kompiuteriai;
+magistralinis – kai kompiuteriai nuosekliai prijungti prie juos „juosiančios“ linijos.
+
+Kompiuterių tinklas jungiantis vieno ar kelių pastatų kompiuterius, vadinamas vietiniu tinklu arba LAN (Local Area Network).
+
+Visuotinis tinklas jungia vietinius tinklus ir pavienius kompiuterius į bendrą tinklą, nepaisant atstumo tarp jų.
+
+
+INTERNETAS
+
+Internetas – tai didžiausias pasaulyje kompiuterių tinklas, jungiantis visuotinius ir vietinius kompiuterių tinklus.
+
+Intranetas – tai organizacijos viduje esantis vietinis tinklas, kuriame veikia interneto protokolai, leidžiantys naudotis visomis interneto teikiamomis paslaugomis: elektroniniu paštu, WWW ir kt.
+
+Ekstranetas – tai intranetas prie kurio leidžiama prisijungti iš išorės, pavyzdžiui namų ar tėvelių kompiuteriai.
+
+ 
+
+TCP/IP (Transmission Control Protocol/Internet Protocol). Įvairius interneto procesus valdo skirtingi protokolai.
+
+Protokolas – tai susitarimai, leidžiantys, skirtingiems kompiuteriams keistis informacija, pvz. FTP, HTTP, SMTP, POP, DNS protokolai.
+
+Kiekvienas kompiuteris, kuris jungiasi prie tinklo arba interneto turi savo unikalų IP adresą (IP Adress), pvz. 192.168.0.1 (keturi skaičiai, kiekvienas kurių yra nuo 0 iki 255 bei atskirti taškais).
+
+Saitynas, pasaulinis tinklas, žiniatinklis (angl. World Wide Web arba WWW) – interneto dalis, ištekliai, kuriuos internete galima pasiekti naudojant URL (vieningus resursų identifikatorius, tokius, kaip https://www.google.com/), tarpusavy galimai susietus hipertekstu. Saityno išteklius galima naudoti taikomąja programa, vadinama naršykle.
+
+Naršyklė (browser) yra programa, skirta atvaizduoti internetinius puslapius (tinklalapius) saityne savo kompiuteryje. Interneto puslapių peržiūra, dažnai naudojantis juos siejančiomis hipertekstinėmis nuorodomis, vadinama naršymu. Be HTML pagrindu sukurtų dokumentų naršyklės paprastai gali atvaizduoti ir kitokio tipo dokumentus.
+
+Populiariausios naršyklės Chrome, Mozilla Firefox, Opera, Edge, Safari ir t.t.
+
+Pasaulinis tinklas daugiausia remiasi hipertekstu – HTTP protokolu ir HTML kalba.
